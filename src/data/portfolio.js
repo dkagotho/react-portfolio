@@ -2,9 +2,9 @@ const portfolioData = {
 	"imageUrl": 'http://localhost:3000/',
 	"logo": "images/app-logo.svg",
 	"logoWhite": "images/app-logo-white.svg",
-	"name": 'James Russel C. Bautista',
-	"role": 'Front-end Developer',
-	"intro": "Let's keep building amazing stuff.",
+	"name": 'Diana kagotho',
+	"role": 'Full Stack Developer',
+	"intro": "Never stop learning, because life never stops teaching.",
 	"projects": [
 		{
 			"id": 0,
