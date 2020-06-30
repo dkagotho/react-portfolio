@@ -22,16 +22,16 @@ const portfolioData = {
 			"link": "https://cryptic-hollows-33962.herokuapp.com",
 			"codeLink": "https://github.com/dkagotho/project-2",
 			"description": "The Pharmacy is an Ecommerce website that provides medicine and medical supplies.",
-			"technology": ["HTML/CSS", "Javascript", "Jquery"],
+			"technology": ["HTML/CSS", "Javascript", "Handlebars JS", "Node.js", "MySQL", "express"],
 		},
 		{
 			"id": 2,
-			"title": "Hataw Web",
-			"imageUrl": "images/portfolio/hataw-web.png",
-			"link": "https://hataw.netlify.com/",
-			"codeLink": "",
-			"description": "Hataw Web is a projects that show all quality products. It is just for showcasing all the low cost and high quality products",
-			"technology": ["HTML/CSS", "SASS(SCSS)", "React"],
+			"title": "Workout-rockout",
+			"imageUrl": "images/portfolio/workout_rockout.png",
+			"link": "https://workout-rockout.herokuapp.com/?id=5ee425088ff50c0017f30b92",
+			"codeLink": "https://github.com/dkagotho/Workout-tracker",
+			"description": "Rockout work out is a work out app that is able to be able to view create and track daily workouts. It allows you to be able to log multiple exercises in a workout on a given day. It tracks the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, it tracks the distance traveled.",
+			"technology": ["HTML/CSS", "CSS", "React", "Node.js", "MongoDB"],
 		},
 		{
 			"id": 3,
@@ -40,7 +40,6 @@ const portfolioData = {
 			"link": "https://hataw.ph/wap/",
 			"codeLink": "",
 			"description": "Hataw Ecommerce (Wap) is a mobile web version.",
-			"technology": ["HTML",  "SASS/SCSS", "Zepto Js"]				
 		},
 		{
 			"id": 4,			
@@ -60,24 +59,6 @@ const portfolioData = {
 			"description": "It is a network based system that I developed to easily tabulate the scored of certain candidates per judge.",
 			"technology": ["HTML/CSS", "Bootstrap", "Javascript/Jquery", "Mysql", "PHP" ]				
 		},
-		{
-			"id": 6,			
-			"title": "Online Registration using Laravel",
-			"imageUrl": "images/portfolio/attendance-thumbnail.png",
-			"link": "http://doitpsualaminos.herokuapp.com/",
-			"codeLink": "",
-			"description": "Online Registration for certain activities in our school.",
-			"technology": ["HTML/CSS", "Bootstrap", "Javascript/Jquery", "Laravel"]				
-		},
-		{
-			"id": 7,
-			"title": "Java Made Easy Android App",
-			"imageUrl": "images/portfolio/java-made-app.jpg",
-			"link": "",
-			"codeLink": "https://github.com/jrussumbrella/java-made-easy",
-			"description": "This projects was my thesis that aimed to help those students especially IT students or those people who wants to learn java programming language.",
-			"technology": ["XML","Java"]				
-		},								
 		],
 	"skills": [
 		{
