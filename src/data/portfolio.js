@@ -44,12 +44,12 @@ const portfolioData = {
 		},
 		{
 			"id": 4,			
-			"title": "Paper Todo App using React",
-			"imageUrl": "images/portfolio/react-todo-thumbnail.png",
-			"link": "",
-			"codeLink": "https://github.com/jrussumbrella/react-paper-todo",
+			"title": "Eat da burger",
+			"imageUrl": "images/portfolio/burger.png",
+			"link": "https://deey-burger.herokuapp.com",
+			"codeLink": "https://github.com/dkagotho/Burger",
 			"description": "Simple to do app that uses local storage to save to do list.",
-			"technology": ["HTML", "Paper CSS", "React"]			
+			"technology": ["HTML", "CSS", "React", "MYSQL", "Node", "Express", "Handlebars", "ORM"],			
 		},
 		{
 			"id": 5,
