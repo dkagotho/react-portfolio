@@ -6,6 +6,7 @@ import ProjectList from './components/Projects/ProjectList';
 import ProjectInfo from './components/Projects/ProjectInfo';
 import Skills from './components/Skills';
 import Timeline from './components/Timeline';
+import AboutMe from './components/AboutMe';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import portfolioData from './data/portfolio';
@@ -83,6 +84,7 @@ class App extends Component {
           </Projects>
           <Skills portfolioData={ portfolioData }/>
           <Timeline portfolioData={ portfolioData } />
+          <AboutMe portfolioData={ portfolioData }/>
           <Contact />
             {
               isOpenModal &&

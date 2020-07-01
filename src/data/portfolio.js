@@ -31,15 +31,16 @@ const portfolioData = {
 			"link": "https://workout-rockout.herokuapp.com/?id=5ee425088ff50c0017f30b92",
 			"codeLink": "https://github.com/dkagotho/Workout-tracker",
 			"description": "Rockout work out is a work out app that is able to be able to view create and track daily workouts. It allows you to be able to log multiple exercises in a workout on a given day. It tracks the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, it tracks the distance traveled.",
-			"technology": ["HTML/CSS", "CSS", "React", "Node.js", "MongoDB"],
+			"technology": ["HTML/CSS", "CSS", "JQuery", "React", "Node.js", "MongoDB"],
 		},
 		{
 			"id": 3,
-			"title": "Hataw Ecommerce (Wap)",
-			"imageUrl": "images/portfolio/hataw-wap.png",
-			"link": "https://hataw.ph/wap/",
-			"codeLink": "",
-			"description": "Hataw Ecommerce (Wap) is a mobile web version.",
+			"title": "Budget-pesa",
+			"imageUrl": "images/portfolio/budget-pesa.png",
+			"link": "https://budget-pesa.herokuapp.com",
+			"codeLink": "https://github.com/dkagotho/Online-Offline-Budget-Trackers",
+			"description": "Budget pesa, is an APP that gives users a fast and easy way to track their money, but also allows them to access that information anytime. This APP does this by having offline functionality.",
+			"technology": ["HTML/CSS", "CSS", "JQuery", "React", "Node.js", "MongoDB"],
 		},
 		{
 			"id": 4,			
@@ -62,7 +63,7 @@ const portfolioData = {
 		],
 	"skills": [
 		{
-			"name": "HTML/CSS",
+			"name": "HTML5/CSS3",
 			"percentage": 80
 		},
 		{
@@ -77,30 +78,63 @@ const portfolioData = {
 			"name": "Jquery",
 			"percentage": 80
 		},
-
 		{
-			"name": "REACT",
-			"percentage": 50
+			"name": "Bootstrap",
+			"percentage": 80
 		},
 		{
-			"name": "PHP (LARAVEL)",
-			"percentage": 50
-		},						
+			"name": "Express.js",
+			"percentage": 80
+		},
+		{
+			"name": "Node.js",
+			"percentage": 80
+		},
+		{
+			"name": "REACT",
+			"percentage": 75
+		},
+		{
+			"name": "MongoDB",
+			"percentage": 80
+		},
+		{
+			"name": "MYSQL",
+			"percentage": 75
+		},
+		{
+			"name": "AJAX",
+			"percentage": 80
+		},	
+		{
+			"name": "JSON",
+			"percentage": 80
+		},
+		{
+			"name": "GIT",
+			"percentage": 75
+		},					
 	],
 	"workExp": [
 		{
-			"title": "Front-end Developer",
-			"date" : 'June 2017- June 2019',
+			"title": "Quality Assurance Analyst",     
+			"date": "April 2020 - Current",
 			"description": "Converting mockup designs into web pages, making sure it's mobile responsive and cross browser compatible. Maintaing and improving website.",
-			"company": 'E-Creations Inc.'
+			"company": "KEV Group"
 		},
 		{
-			"title": "Junior Software Engineer (Intern)",
-			"date" : 'January 2017 - May 2017',
-			"company": 'Advanced Techinnovations Systems',
-			"description": " Works as junior software engineer and help senior developer in developing the Hanap Trabaho web application."
+			"title": "Tech Support (PHD)",
+			"date" : 'January 2019 - March 2020',
+			"description": " Works as junior software engineer and help senior developer in developing the Hanap Trabaho web application.",
+			"company": "KEV Group"
 		},				
-	]	
+	],
+	"About me": [
+		{
+			"description": "Converting mockup designs into web pages, making sure it's mobile responsive and cross browser compatible. Maintaing and improving website.",
+		},
+	],	
+
  
 }
 

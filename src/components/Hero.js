@@ -3,6 +3,7 @@ import introLogo from '../intro-logo.png'
 import { Link, animateScroll as scroll } from "react-scroll";
 import Particles from 'react-particles-js';
 
+
 const Hero = (props) => {
 
 	const data = props.portfolioData;
@@ -30,7 +31,7 @@ const Hero = (props) => {
 			    offset={-30}
 			    duration= {500}		          
 	          > 	          
-	            See my works 
+	            View my work
 	          </Link>
 	          </div>
 	          </div>           

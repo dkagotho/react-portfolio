@@ -26,7 +26,7 @@ const Timeline  = (props) => {
       <div className="container">
           <div className="site-section__icon stroke-white">
           </div>        
-        <h1 className="site-heading text-white"> Works  </h1>
+        <h1 className="site-heading text-white"> Work  </h1>
         <div className="stepper">
            { expList }                             
         </div>

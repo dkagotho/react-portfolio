@@ -122,9 +122,9 @@ a {
 }
 
 .site-intro__logo {
-  width: 20rem;
+  width: 30%;
   position: absolute;
-  top: 30%;
+  top: 40%;
 }
 
 .site-intro__name {
