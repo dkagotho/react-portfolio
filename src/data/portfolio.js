@@ -1,7 +1,7 @@
 const portfolioData = { 
 	"imageUrl": 'http://localhost:3000/',
-	"logo": "images/app-logo.svg",
-	"logoWhite": "images/app-logo-white.svg",
+	"logo": "app-logo.ico",
+	"logoWhite": "app-logo.ico",
 	"name": 'Diana kagotho',
 	"role": 'Full Stack Developer',
 	"intro": "Never stop learning, because life never stops teaching.",
@@ -9,7 +9,7 @@ const portfolioData = {
 		{
 			"id": 0,
 			"title": "Insta_Food_and_Booz",
-			"imageUrl": "images/portfolio/instafood-and-booz.png",
+			"imageUrl": "images/portfolio/instafood.png",
 			"link": "https://dkagotho.github.io/Insta_Food_and_Booz-prj1",
 			"codeLink": "https://github.com/dkagotho/dkagotho.github.io/tree/master/Insta_Food_and_Booz-prj1",
 			"description": "This is a food and booz website. It basically fetches data from a food and booz API that randomly combines food recipes and cocktails.",
@@ -53,12 +53,12 @@ const portfolioData = {
 		},
 		{
 			"id": 5,
-			"title": "MHI 2K18 Web based Tabulation System Demo",
-			"imageUrl": "images/portfolio/mhi-thumbnail.jpg",
+			"title": "Personal react portfolio",
+			"imageUrl": "images/portfolio/homepage.png",
 			"link": "",
-			"codeLink": "https://github.com/jrussumbrella/mhi-web-based-tabulation",
-			"description": "It is a network based system that I developed to easily tabulate the scored of certain candidates per judge.",
-			"technology": ["HTML/CSS", "Bootstrap", "Javascript/Jquery", "Mysql", "PHP" ]				
+			"codeLink": "https://github.com/dkagotho/react-portfolio",
+			"description": "This is my personal react portfolio.",
+			"technology": ["HTML/CSS", "Bootstrap", "Javascript","Jquery", "", "" ]				
 		},
 		],
 	"skills": [
