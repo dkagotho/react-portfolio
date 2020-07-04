@@ -131,7 +131,7 @@ const portfolioData = {
 	],
 	"AboutMe": [
 		{
-			"description": "Hi, my name is Diana Kagotho and I am a fresh Graduate of the coding bootcamp at University of Toronto. I'm very passionate about coding and as a new Full Stack developer, I intend to keep on building new and cool stuff. I also want to learn more skills and computer languages to be more competitive in the job market. When I am not coding, I am drawing, painting, baking or dancing.",
+			"description": "Hi, my name is Diana Kagotho and I am a fresh Graduate of the coding bootcamp at University of Toronto. I'm very passionate about coding and as a new Full Stack developer, I intend to keep on building new and cool stuff. I also want to learn more skills and computer languages to be more competitive in the job market.When I am not coding, I am drawing, painting, baking or dancing.",
 		},
 	],	
 

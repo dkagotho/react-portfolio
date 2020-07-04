@@ -599,6 +599,11 @@
 		font-size: 1.5rem;
 	}
 
+	&__sub2{
+		padding-top: 1rem;
+		font-size: 2rem;
+	}
+
 	&__timeline-heading {
 		font-size: 1.8rem;
 		font-weight: $semibold;
@@ -810,9 +815,10 @@
 
 .aboutme-description {
 	width: 66%;
+	display: inline-block;
 }
 
 .aboutme-photo {
-	width: 40%;
-	height: 30%;
+	width: 33%;
+	display: inline-block;
 }
