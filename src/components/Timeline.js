@@ -14,7 +14,8 @@ const Timeline  = (props) => {
         </div>
         <div className="stepper__info">
           <div className="stepper__body">
-            <h3 className="stepper__title"> { exp.company }</h3>
+            <h5 className="stepper__sub"> { exp.company }</h5>
+            <span className="stepper__sub"> { exp.date }</span>
             <div className="stepper__sub"> { exp. description } </div>
           </div>
         </div>              
@@ -28,7 +29,8 @@ const Timeline  = (props) => {
           </div>        
         <h1 className="site-heading text-white"> Work  </h1>
         <div className="stepper">
-           { expList }                             
+           { expList }    
+
         </div>
       </div>
     </section>	  

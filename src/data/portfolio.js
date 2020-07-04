@@ -49,7 +49,7 @@ const portfolioData = {
 			"link": "https://deey-burger.herokuapp.com",
 			"codeLink": "https://github.com/dkagotho/Burger",
 			"description": "Simple to do app that uses local storage to save to do list.",
-			"technology": ["HTML", "CSS", "React", "MYSQL", "Node", "Express", "Handlebars", "ORM"],			
+			"technology": ["HTML", "CSS", "MYSQL", "JavaScript","Jquery", "Node.js", "Express", "Handlebars", "ORM"],			
 		},
 		{
 			"id": 5,
@@ -58,7 +58,7 @@ const portfolioData = {
 			"link": "",
 			"codeLink": "https://github.com/dkagotho/react-portfolio",
 			"description": "This is my personal react portfolio.",
-			"technology": ["HTML/CSS", "Bootstrap", "Javascript","Jquery", "", "" ]				
+			"technology": ["HTML", "CSS", "React", "Javascript","Jquery", "JSON", "Node.js", "SAAS"]				
 		},
 		],
 	"skills": [
@@ -96,7 +96,7 @@ const portfolioData = {
 		},
 		{
 			"name": "MongoDB",
-			"percentage": 80
+			"percentage": 75
 		},
 		{
 			"name": "MYSQL",
@@ -104,7 +104,7 @@ const portfolioData = {
 		},
 		{
 			"name": "AJAX",
-			"percentage": 80
+			"percentage": 70
 		},	
 		{
 			"name": "JSON",
@@ -119,19 +119,19 @@ const portfolioData = {
 		{
 			"title": "Quality Assurance Analyst",     
 			"date": "April 2020 - Current",
-			"description": "Converting mockup designs into web pages, making sure it's mobile responsive and cross browser compatible. Maintaing and improving website.",
+			"description": "Guarantee the quality of new and existing features in the school accounting, payments, and donations suite.",
 			"company": "KEV Group"
 		},
 		{
 			"title": "Tech Support (PHD)",
 			"date" : 'January 2019 - March 2020',
-			"description": " Works as junior software engineer and help senior developer in developing the Hanap Trabaho web application.",
+			"description": " Solving user issues throught the support portal. Writing documentation and ensuring customer sucess is at it's all time high.",
 			"company": "KEV Group"
 		},				
 	],
-	"About me": [
+	"AboutMe": [
 		{
-			"description": "Converting mockup designs into web pages, making sure it's mobile responsive and cross browser compatible. Maintaing and improving website.",
+			"description": "Hi, my name is Diana Kagotho and I am a fresh Graduate of the coding bootcamp at University of Toronto. I'm very passionate about coding and as a new Full Stack developer, I intend to keep on building new and cool stuff. I also want to learn more skills and computer languages to be more competitive in the job market. When I am not coding, I am drawing, painting, baking or dancing.",
 		},
 	],	
 

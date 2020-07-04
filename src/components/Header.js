@@ -145,11 +145,11 @@ class Header extends Component {
 				<li className="site-nav__list">
 		          <Link 
 		          	onClick={ this.onHandleClickLink }
-		          	href="#about me" 
+		          	href="#aboutme" 
 		         	className="site-nav__link"
 				    activeClass="site-nav__link--active"
-				    to="about me"
-				    href="#about me"
+				    to="aboutme"
+				    href="#aboutme"
 				    spy={true}
 				    smooth={true}
 				    offset={-30}

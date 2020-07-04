@@ -4,16 +4,9 @@ import React from 'react';
 const AboutMe = (props) => {
   // 
   const data = props.portfolioData;
-    let skillList;
-    skillList = data.skills.map((s, i) => (
-          <div className="col-2" key={i}>
-            <div className="site-skill">
-              <div className="site-skill__canvas-wrapper">
-        
-              </div>
-              <div className="site-skill__text"> {s.name}</div>
-            </div>           
-          </div>          
+    let aboutMe;
+    aboutMe = data.AboutMe.map((s, i) => (
+              <div className="stepper__sub"> {s.description}</div>
     ));
 
  	return (
@@ -21,14 +14,14 @@ const AboutMe = (props) => {
       <div className="container">
           <div className="site-section__icon">
           </div>        
-        <h1 className="site-heading"> About me  </h1>
-        <div className="row">
-    
-              { AboutMe } 
-                        
+        <h1 className="site-heading"> About Me </h1>
+        <div className="stepper">
+          <div className= "aboutme-description"> { aboutMe } </div> 
+          <div className= "aboutme-photo"><img src="././images/portfolio/diana.jpg"/></div> 
+          <a href= "Diana-Kagotho-resume.pdf">Resume</a>
         </div>
       </div>
-    </section>
+    </section>	
 
  		)
 }
