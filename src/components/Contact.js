@@ -15,12 +15,13 @@ class Contact extends Component {
   }
 
   onSubmit = (values,  { resetForm }) => {
+    console.log(values);
     const {  isShowMsg, isSending } = this.state;
     this.setState({
       isSending: true
     })
     axios.post(
-    "/", 
+    "https://formspree.io/dianakago2@gmail.com", 
     values, 
     {headers: {"Accept": "application/json"}}
     )

@@ -822,3 +822,18 @@
 	width: 33%;
 	display: inline-block;
 }
+
+.resume-button {
+	background-color: #1E88E5; 
+	border: none;
+	color: white; 
+	padding: 0.5rem 1.8rem; 
+	font-size: 1.7rem;
+  	cursor: pointer; 
+	border-radius: 5rem;
+	display: initial;
+}
+  
+.resume-button:hover {
+	background-color: #7054ff;
+}

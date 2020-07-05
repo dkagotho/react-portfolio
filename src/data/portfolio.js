@@ -40,7 +40,7 @@ const portfolioData = {
 			"link": "https://budget-pesa.herokuapp.com",
 			"codeLink": "https://github.com/dkagotho/Online-Offline-Budget-Trackers",
 			"description": "Budget pesa, is an APP that gives users a fast and easy way to track their money, but also allows them to access that information anytime. This APP does this by having offline functionality.",
-			"technology": ["HTML/CSS", "CSS", "JQuery", "React", "Node.js", "MongoDB"],
+			"technology": ["HTML", "CSS", "JQuery", "React", "Node.js", "MongoDB"],
 		},
 		{
 			"id": 4,			
@@ -131,7 +131,13 @@ const portfolioData = {
 	],
 	"AboutMe": [
 		{
-			"description": "Hi, my name is Diana Kagotho and I am a fresh Graduate of the coding bootcamp at University of Toronto. I'm very passionate about coding and as a new Full Stack developer, I intend to keep on building new and cool stuff. I also want to learn more skills and computer languages to be more competitive in the job market.When I am not coding, I am drawing, painting, baking or dancing.",
+			"description": "Hi, my name is Diana Kagotho. I am a fresh Graduate of the coding bootcamp at University of Toronto. I'm very passionate about coding and as a new Full Stack developer, I intend to keep on building new and cool stuff. I also want to learn more skills and computer languages to be more competitive in the job market."
+		},
+		{
+			"description": "Outside of code, I like to create in other ways. From drawing to painting, baking to cooking and on to dancing, I'm always trying new ways of expressing myself through ways that bring people together."
+		},
+		{
+			"description": "Please feel free to go through my resume to learn more about my skills."
 		},
 	],	
 

@@ -8,7 +8,7 @@ const ProjectList = ({ handleClickProject, imageUrl, title, link }) => {
                 <div className="site-project__img" style={{ backgroundImage: `url("${imageUrl}")` }}></div>
                 <div className="site-project__overlay">
                   <div className="site-project__info">
-                    <a href="javascript:void(0)" onClick={ handleClickProject } className="btn btn-outline-white btn-radius btn-md" type="button"> Learn More </a>                  
+                    <a href="#" onClick={ handleClickProject } className="btn btn-outline-white btn-radius btn-md" type="button"> Learn More </a>                  
                   </div>
                 </div>
               </div>
