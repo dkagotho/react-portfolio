@@ -68,15 +68,15 @@ const portfolioData = {
 		},
 		{
 			"name": "SASS/ SCSS",
-			"percentage": 70
+			"percentage": 80
 		},	
 		{
 			"name": "Javascript",
-			"percentage": 80
+			"percentage": 78
 		},							
 		{
 			"name": "Jquery",
-			"percentage": 80
+			"percentage": 78
 		},
 		{
 			"name": "Bootstrap",
@@ -92,7 +92,7 @@ const portfolioData = {
 		},
 		{
 			"name": "REACT",
-			"percentage": 75
+			"percentage": 80
 		},
 		{
 			"name": "MongoDB",
