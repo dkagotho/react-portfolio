@@ -21,7 +21,7 @@ class Contact extends Component {
       isSending: true
     })
     axios.post(
-    "https://formspree.io/dianakago2@gmail.com", 
+    "https://formspree.io/example@email.com", 
     values, 
     {headers: {"Accept": "application/json"}}
     )
