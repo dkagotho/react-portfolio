@@ -8,12 +8,12 @@ const portfolioData = {
 	"projects": [
 		{
 			"id": 0,
-			"title": "Insta_Food_and_Booz",
-			"imageUrl": "images/portfolio/instafood.png",
-			"link": "https://dkagotho.github.io/Insta_Food_and_Booz-prj1",
-			"codeLink": "https://github.com/dkagotho/dkagotho.github.io/tree/master/Insta_Food_and_Booz-prj1",
-			"description": "This is a food and booz website. It basically fetches data from a food and booz API that randomly combines food recipes and cocktails.",
-			"technology": ["HTML/CSS", "JAVA SCRIPT", "API CALLS"],
+			"title": "Employee-Directory",
+			"imageUrl": "images/portfolio/ep-kazi.jpg",
+			"link": "https://employee-kazi.herokuapp.com/",
+			"codeLink": "https://github.com/dkagotho/Employee-Directory",
+			"description": "This app utilizes an API to populate random users and then create a directory. Other users on the app can search for employees by 'name' and also organize each field (Name, Email, DOB) in ascending or descending order.",
+			"technology": ["HTML/CSS", "JAVA SCRIPT", "API CALLS","Node.js","Webpack","MongoDb","AWS Lambada","Bable","Espress","React"]
 		},	
 		{
 			"id": 1,
@@ -22,7 +22,7 @@ const portfolioData = {
 			"link": "https://cryptic-hollows-33962.herokuapp.com",
 			"codeLink": "https://github.com/dkagotho/project-2",
 			"description": "The Pharmacy is an Ecommerce website that provides medicine and medical supplies.",
-			"technology": ["HTML/CSS", "Javascript", "Handlebars JS", "Node.js", "MySQL", "express"],
+			"technology": ["HTML/CSS", "Javascript", "Handlebars JS", "Node.js", "MySQL", "express","API CALLS"],
 		},
 		{
 			"id": 2,
