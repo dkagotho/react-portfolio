@@ -7,7 +7,15 @@ const portfolioData = {
 	"intro": "Never stop learning, because life never stops teaching.",
 	"projects": [
 		{
-			"id": 0,
+			"id": 0,			
+			"title": "Facebook Messenger Clone",
+			"imageUrl": "images/portfolio/burger.png",
+			"link": "facebook-messenger-clone-bce12.firebaseapp.com",
+			"codeLink": "https://github.com/dkagotho/facebook-messenger-clone",
+			"description": "Facebook messenger clone app.",
+		},
+		{
+			"id": 1,
 			"title": "Employee-Directory",
 			"imageUrl": "images/portfolio/ep-kazi.jpg",
 			"link": "https://employee-kazi.herokuapp.com/",
@@ -16,7 +24,7 @@ const portfolioData = {
 			"technology": ["HTML/CSS", "JAVA SCRIPT", "API CALLS","Node.js","Webpack","MongoDb","AWS Lambada","Bable","Espress","React"]
 		},	
 		{
-			"id": 1,
+			"id": 2,
 			"title": "The Pharmacy",
 			"imageUrl": "images/portfolio/the-pharmacy.png",
 			"link": "https://cryptic-hollows-33962.herokuapp.com",
@@ -25,7 +33,7 @@ const portfolioData = {
 			"technology": ["HTML/CSS", "Javascript", "Handlebars JS", "Node.js", "MySQL", "express","API CALLS"],
 		},
 		{
-			"id": 2,
+			"id": 3,
 			"title": "Workout-rockout",
 			"imageUrl": "images/portfolio/workout_rockout.png",
 			"link": "https://workout-rockout.herokuapp.com/?id=5ee425088ff50c0017f30b92",
@@ -34,22 +42,13 @@ const portfolioData = {
 			"technology": ["HTML/CSS", "CSS", "JQuery", "React", "Node.js", "MongoDB"],
 		},
 		{
-			"id": 3,
+			"id": 4,
 			"title": "Budget-pesa",
 			"imageUrl": "images/portfolio/budget-pesa.png",
 			"link": "https://budget-pesa.herokuapp.com",
 			"codeLink": "https://github.com/dkagotho/Online-Offline-Budget-Trackers",
 			"description": "Budget pesa, is an APP that gives users a fast and easy way to track their money, but also allows them to access that information anytime. This APP does this by having offline functionality.",
 			"technology": ["HTML", "CSS", "JQuery", "React", "Node.js", "MongoDB"],
-		},
-		{
-			"id": 4,			
-			"title": "Eat da burger",
-			"imageUrl": "images/portfolio/burger.png",
-			"link": "https://deey-burger.herokuapp.com",
-			"codeLink": "https://github.com/dkagotho/Burger",
-			"description": "Simple to do app that uses local storage to save to do list.",
-			"technology": ["HTML", "CSS", "MYSQL", "JavaScript","Jquery", "Node.js", "Express", "Handlebars", "ORM"],			
 		},
 		{
 			"id": 5,
