@@ -9,7 +9,7 @@ const portfolioData = {
 		{
 			"id": 0,			
 			"title": "Facebook Messenger Clone",
-			"imageUrl": "images/portfolio/burger.png",
+			"imageUrl": "images/portfolio/Facebook-m-clone.png",
 			"link": "facebook-messenger-clone-bce12.firebaseapp.com",
 			"codeLink": "https://github.com/dkagotho/facebook-messenger-clone",
 			"description": "Facebook messenger clone app.",
