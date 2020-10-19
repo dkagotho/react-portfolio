@@ -27,7 +27,7 @@ const portfolioData = {
       id: 1,
       title: "Netflix clone",
       imageUrl: "images/portfolio/netflix-pic.png",
-      link: "netflix-clone-e8561.firebaseapp.com",
+      link: "https://netflix-clone-e8561.firebaseapp.com",
       codeLink: "https://github.com/dkagotho/Netflix-clone",
       description:
         "This is a simple Netflix clone that shows the trending movies, top rated movies, action movies, comedy movies, horror movies, romance movies and ducumentaries. The app also shows some trailers that have been grabbed from youtube.",
