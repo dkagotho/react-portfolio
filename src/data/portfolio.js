@@ -43,20 +43,23 @@ const portfolioData = {
     },
     {
       id: 2,
-      title: "The Pharmacy",
-      imageUrl: "images/portfolio/the-pharmacy.png",
-      link: "https://cryptic-hollows-33962.herokuapp.com",
-      codeLink: "https://github.com/dkagotho/project-2",
+      title: "Amazon Clone",
+      imageUrl: "images/portfolio/amazon.png",
+      link: "https://clone-b1a9e.firebaseapp.com",
+      codeLink: "https://github.com/dkagotho/Amazon-clone",
       description:
-        "The Pharmacy is an Ecommerce website that provides medicine and medical supplies.",
+        "This is a simple Amazon. It has user authentication and users are able to create accounts, log in and add items to cart.",
       technology: [
         "HTML/CSS",
         "Javascript",
-        "Handlebars JS",
+        "React",
         "Node.js",
-        "MySQL",
+        "Firebase",
         "express",
-        "API CALLS",
+        "React context API",
+        "BEM",
+        "Firebase Authentication",
+        "React router",
       ],
     },
     {
@@ -133,6 +136,10 @@ const portfolioData = {
       percentage: 80,
     },
     {
+      name: "Firebase",
+      percentage: 80,
+    },
+    {
       name: "MongoDB",
       percentage: 75,
     },
@@ -150,7 +157,7 @@ const portfolioData = {
     },
     {
       name: "GIT",
-      percentage: 75,
+      percentage: 80,
     },
   ],
   workExp: [
