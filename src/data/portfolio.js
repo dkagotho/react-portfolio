@@ -162,24 +162,24 @@ const portfolioData = {
   ],
   workExp: [
     {
-      title: "Quality Assurance Analyst",
-      date: "April 2020 - Current",
+      title: "Web Developer",
+      date: "September 2021 - Current",
       description:
-        "Guarantee the quality of new and existing features in the school accounting, payments, and donations suite.",
-      company: "KEV Group",
+        "Writing well-designed, testable, efficient code by using web development best practices. Customizing websites according to objectives or user feedback and requirements.",
+      company: "MIHOK SYSTEMS INC.",
     },
     {
-      title: "Tech Support (PHD)",
-      date: "January 2019 - March 2020",
+      title: "Web Developer Intern",
+      date: "April 2021 - September 2021",
       description:
-        " Solving user issues throught the support portal. Writing documentation and ensuring customer sucess is at it's all time high.",
-      company: "KEV Group",
+        "Assisting the Development Manager with all aspects of software design and coding.Gathering information from clients about system functionality.",
+      company: "MIHOK SYSTEMS INC.",
     },
   ],
   AboutMe: [
     {
       description:
-        "Hi, my name is Diana Kagotho. I am a fresh Graduate of the coding bootcamp at University of Toronto. I'm very passionate about coding and as a new Full Stack developer, I intend to keep on building new and cool stuff. I also want to learn more skills and computer languages to be more competitive in the job market.",
+        "I am a Full Stack Developer with industry experience building websites and web applications. I have experience working with JavaScript, TypeScript, Node.js, SASS, NextJs, React, Bootstrap, YARN, MVC, ORM, MERN Stack, JSON, Firebase, BEM, and Git among others. With my unique blend of communications skills, technical capabilities and leadership experience, I believe I would make an invaluable member of your project and team.",
     },
     {
       description:
